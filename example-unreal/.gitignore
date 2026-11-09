@@ -1,0 +1,14 @@
+# Packaged output (build/Wasm is the upload; build/Wasm-Debug holds the symbol map)
+/build/
+
+# Unreal build products and caches
+ExampleUnreal/Binaries/
+ExampleUnreal/Intermediate/
+ExampleUnreal/Saved/
+ExampleUnreal/DerivedDataCache/
+
+# UAT by-products under Build/; only the page template is source
+ExampleUnreal/Build/*
+!ExampleUnreal/Build/Wasm/
+ExampleUnreal/Build/Wasm/*
+!ExampleUnreal/Build/Wasm/Template/

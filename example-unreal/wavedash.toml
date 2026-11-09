@@ -1,0 +1,6 @@
+game_id = "YOUR_GAME_ID_HERE"
+# game_id = "j978s2dfy4s18jyf5pxycr6dq98hw6aw"
+# The staged Wasm folder from BuildCookRun -archivedirectory=./build (see README.md).
+# Never upload the sibling build/Wasm-Debug folder: it holds the symbol map.
+upload_dir = "./build/Wasm"
+entrypoint = "index.html"
