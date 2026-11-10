@@ -1,5 +1,0 @@
--cp src
--main Main
--js build/main.js
--D js-es=6
--D no-traces

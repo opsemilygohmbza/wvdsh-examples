@@ -1,6 +1,0 @@
--cp src
--main Main
--lib heaps
--js bin/main.js
--D js-es=6
--D no-traces

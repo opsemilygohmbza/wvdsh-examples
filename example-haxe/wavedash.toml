@@ -1,4 +1,0 @@
-game_id = "YOUR_GAME_ID_HERE"
-# game_id = "j97crgrwab7v5wy6h2t4khff9d859fzb"
-upload_dir = "./build"
-entrypoint = "index.html"
